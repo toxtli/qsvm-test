@@ -1,0 +1,126 @@
+/home/ctoxtli/.local/lib/python3.5/site-packages/qiskit/providers/ibmq/credentials/configrc.py:130: UserWarning: Credentials already present. Set overwrite=True to overwrite.
+  warnings.warn('Credentials already present. '
+/home/ctoxtli/.local/lib/python3.5/site-packages/qiskit/providers/ibmq/utils/deprecation.py:53: DeprecationWarning: IBMQ.load_accounts() is being deprecated. Please use IBM Q Experience v2 credentials and IBMQ.load_account() (note the singular form) instead. You can find the instructions to make the updates here: 
+https://github.com/Qiskit/qiskit-ibmq-provider#updating-to-the-new-ibm-q-experience
+  DeprecationWarning)
+/home/ctoxtli/.local/lib/python3.5/site-packages/qiskit/providers/ibmq/ibmqfactory.py:482: DeprecationWarning: Calling IBMQ.load_accounts() with v2 credentials. This is provided for backwards compatibility and may lead to unexpected behaviour when mixing v1 and v2 account credentials.
+  'v1 and v2 account credentials.', DeprecationWarning)
+Due to the limited entangler_map, IIIIIIIIIIIZIZ is skipped.
+Due to the limited entangler_map, IIIIIIIIIIZIIZ is skipped.
+Due to the limited entangler_map, IIIIIIIIIZIIIZ is skipped.
+Due to the limited entangler_map, IIIIIIIIZIIIIZ is skipped.
+Due to the limited entangler_map, IIIIIIIZIIIIIZ is skipped.
+Due to the limited entangler_map, IIIIIIZIIIIIIZ is skipped.
+Due to the limited entangler_map, IIIIIZIIIIIIIZ is skipped.
+Due to the limited entangler_map, IIIIZIIIIIIIIZ is skipped.
+Due to the limited entangler_map, IIIZIIIIIIIIIZ is skipped.
+Due to the limited entangler_map, IIZIIIIIIIIIIZ is skipped.
+Due to the limited entangler_map, IZIIIIIIIIIIIZ is skipped.
+Due to the limited entangler_map, ZIIIIIIIIIIIIZ is skipped.
+Due to the limited entangler_map, IIIIIIIIIIZIZI is skipped.
+Due to the limited entangler_map, IIIIIIIIIZIIZI is skipped.
+Due to the limited entangler_map, IIIIIIIIZIIIZI is skipped.
+Due to the limited entangler_map, IIIIIIIZIIIIZI is skipped.
+Due to the limited entangler_map, IIIIIIZIIIIIZI is skipped.
+Due to the limited entangler_map, IIIIIZIIIIIIZI is skipped.
+Due to the limited entangler_map, IIIIZIIIIIIIZI is skipped.
+Due to the limited entangler_map, IIIZIIIIIIIIZI is skipped.
+Due to the limited entangler_map, IIZIIIIIIIIIZI is skipped.
+Due to the limited entangler_map, IZIIIIIIIIIIZI is skipped.
+Due to the limited entangler_map, ZIIIIIIIIIIIZI is skipped.
+Due to the limited entangler_map, IIIIIIIIIZIZII is skipped.
+Due to the limited entangler_map, IIIIIIIIZIIZII is skipped.
+Due to the limited entangler_map, IIIIIIIZIIIZII is skipped.
+Due to the limited entangler_map, IIIIIIZIIIIZII is skipped.
+Due to the limited entangler_map, IIIIIZIIIIIZII is skipped.
+Due to the limited entangler_map, IIIIZIIIIIIZII is skipped.
+Due to the limited entangler_map, IIIZIIIIIIIZII is skipped.
+Due to the limited entangler_map, IIZIIIIIIIIZII is skipped.
+Due to the limited entangler_map, IZIIIIIIIIIZII is skipped.
+Due to the limited entangler_map, ZIIIIIIIIIIZII is skipped.
+Due to the limited entangler_map, IIIIIIIIZIZIII is skipped.
+Due to the limited entangler_map, IIIIIIIZIIZIII is skipped.
+Due to the limited entangler_map, IIIIIIZIIIZIII is skipped.
+Due to the limited entangler_map, IIIIIZIIIIZIII is skipped.
+Due to the limited entangler_map, IIIIZIIIIIZIII is skipped.
+Due to the limited entangler_map, IIIZIIIIIIZIII is skipped.
+Due to the limited entangler_map, IIZIIIIIIIZIII is skipped.
+Due to the limited entangler_map, IZIIIIIIIIZIII is skipped.
+Due to the limited entangler_map, ZIIIIIIIIIZIII is skipped.
+Due to the limited entangler_map, IIIIIIIZIZIIII is skipped.
+Due to the limited entangler_map, IIIIIIZIIZIIII is skipped.
+Due to the limited entangler_map, IIIIIZIIIZIIII is skipped.
+Due to the limited entangler_map, IIIIZIIIIZIIII is skipped.
+Due to the limited entangler_map, IIIZIIIIIZIIII is skipped.
+Due to the limited entangler_map, IIZIIIIIIZIIII is skipped.
+Due to the limited entangler_map, IZIIIIIIIZIIII is skipped.
+Due to the limited entangler_map, ZIIIIIIIIZIIII is skipped.
+Due to the limited entangler_map, IIIIIIZIZIIIII is skipped.
+Due to the limited entangler_map, IIIIIZIIZIIIII is skipped.
+Due to the limited entangler_map, IIIIZIIIZIIIII is skipped.
+Due to the limited entangler_map, IIIZIIIIZIIIII is skipped.
+Due to the limited entangler_map, IIZIIIIIZIIIII is skipped.
+Due to the limited entangler_map, IZIIIIIIZIIIII is skipped.
+Due to the limited entangler_map, ZIIIIIIIZIIIII is skipped.
+Due to the limited entangler_map, IIIIIZIZIIIIII is skipped.
+Due to the limited entangler_map, IIIIZIIZIIIIII is skipped.
+Due to the limited entangler_map, IIIZIIIZIIIIII is skipped.
+Due to the limited entangler_map, IIZIIIIZIIIIII is skipped.
+Due to the limited entangler_map, IZIIIIIZIIIIII is skipped.
+Due to the limited entangler_map, ZIIIIIIZIIIIII is skipped.
+Due to the limited entangler_map, IIIIZIZIIIIIII is skipped.
+Due to the limited entangler_map, IIIZIIZIIIIIII is skipped.
+Due to the limited entangler_map, IIZIIIZIIIIIII is skipped.
+Due to the limited entangler_map, IZIIIIZIIIIIII is skipped.
+Due to the limited entangler_map, ZIIIIIZIIIIIII is skipped.
+Due to the limited entangler_map, IIIZIZIIIIIIII is skipped.
+Due to the limited entangler_map, IIZIIZIIIIIIII is skipped.
+Due to the limited entangler_map, IZIIIZIIIIIIII is skipped.
+Due to the limited entangler_map, ZIIIIZIIIIIIII is skipped.
+Due to the limited entangler_map, IIZIZIIIIIIIII is skipped.
+Due to the limited entangler_map, IZIIZIIIIIIIII is skipped.
+Due to the limited entangler_map, ZIIIZIIIIIIIII is skipped.
+Due to the limited entangler_map, IZIZIIIIIIIIII is skipped.
+Due to the limited entangler_map, ZIIZIIIIIIIIII is skipped.
+Due to the limited entangler_map, ZIZIIIIIIIIIII is skipped.
+{'test_success_ratio': 0.8333333333333334, 'testing_accuracy': 0.8333333333333334, 'svm': {'bias': array([0.0006502]), 'yin': array([-1., -1., -1.,  1.,  1.,  1.]), 'support_vectors': array([[-0.47017705, -0.70864464, -0.38692015, -0.46765465, -0.33949627,
+        -0.73742274, -0.06070777, -0.67090547, -0.12959433, -0.02207072,
+        -0.536127  , -0.14371038, -0.82256904,  0.00395494],
+       [-0.55279785, -0.69465839, -0.15143214, -0.33630764, -0.24546535,
+        -0.69915508, -0.04696328, -0.74809482,  0.10717068, -0.03886637,
+        -0.49048005, -0.21414624, -0.82096778,  0.00154974],
+       [-0.67054777, -0.67033254, -0.3108518 , -0.22136391, -0.31588192,
+        -0.66357677, -0.42402571, -0.81897642, -0.04892957, -0.03977851,
+        -0.41782415, -0.15267783, -0.81964762, -0.08900564],
+       [-0.46905387, -0.58572814, -0.32892579, -0.35126259, -0.27994652,
+        -0.73340441, -0.34515767, -0.69182334, -0.01665447,  0.05434747,
+        -0.49334088, -0.11175885, -0.80845382,  0.09611913],
+       [-0.61448966, -0.71625433, -0.29857295, -0.437737  , -0.06430213,
+        -0.66220453, -0.32517626, -0.77241868, -0.02086963, -0.02745237,
+        -0.42620501, -0.1141092 , -0.81787613,  0.02021406],
+       [-0.67884134, -0.64752316, -0.25610777, -0.48703767, -0.07328957,
+        -0.71578008, -0.72299772, -0.69601703, -0.05962361, -0.03965734,
+        -0.34019899, -0.24906774, -0.80220942, -0.08035685]]), 'alphas': array([1.00065022, 0.99869963, 0.99869963, 0.99934983, 0.99934983,
+       0.99934983])}, 'kernel_matrix_testing': array([[1.000000e+00, 0.000000e+00, 0.000000e+00, 0.000000e+00,
+        0.000000e+00, 1.953125e-03],
+       [9.765625e-04, 0.000000e+00, 1.000000e+00, 0.000000e+00,
+        0.000000e+00, 0.000000e+00],
+       [0.000000e+00, 9.765625e-04, 0.000000e+00, 0.000000e+00,
+        0.000000e+00, 0.000000e+00],
+       [0.000000e+00, 0.000000e+00, 0.000000e+00, 1.000000e+00,
+        0.000000e+00, 0.000000e+00],
+       [0.000000e+00, 0.000000e+00, 0.000000e+00, 0.000000e+00,
+        1.000000e+00, 0.000000e+00],
+       [0.000000e+00, 1.000000e+00, 0.000000e+00, 9.765625e-04,
+        0.000000e+00, 0.000000e+00]]), 'kernel_matrix_training': array([[1.        , 0.        , 0.        , 0.        , 0.        ,
+        0.        ],
+       [0.        , 1.        , 0.00195312, 0.        , 0.        ,
+        0.        ],
+       [0.        , 0.00195312, 1.        , 0.        , 0.        ,
+        0.        ],
+       [0.        , 0.        , 0.        , 1.        , 0.        ,
+        0.        ],
+       [0.        , 0.        , 0.        , 0.        , 1.        ,
+        0.        ],
+       [0.        , 0.        , 0.        , 0.        , 0.        ,
+        1.        ]])}
